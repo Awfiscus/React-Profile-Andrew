@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Profile-Andrew/static/css/main.7a1cf539.chunk.css",
+    "main.js": "/React-Profile-Andrew/static/js/main.69d35322.chunk.js",
+    "main.js.map": "/React-Profile-Andrew/static/js/main.69d35322.chunk.js.map",
+    "runtime-main.js": "/React-Profile-Andrew/static/js/runtime-main.ac3f2d02.js",
+    "runtime-main.js.map": "/React-Profile-Andrew/static/js/runtime-main.ac3f2d02.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/React-Profile-Andrew/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.bd4ca124.chunk.js": "/React-Profile-Andrew/static/js/2.bd4ca124.chunk.js",
+    "static/js/2.bd4ca124.chunk.js.map": "/React-Profile-Andrew/static/js/2.bd4ca124.chunk.js.map",
+    "index.html": "/React-Profile-Andrew/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/React-Profile-Andrew/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.7a1cf539.chunk.css.map": "/React-Profile-Andrew/static/css/main.7a1cf539.chunk.css.map",
+    "static/js/2.bd4ca124.chunk.js.LICENSE.txt": "/React-Profile-Andrew/static/js/2.bd4ca124.chunk.js.LICENSE.txt",
+    "static/media/Profile pic maybe (2).1818f34b.jpg": "/React-Profile-Andrew/static/media/Profile pic maybe (2).1818f34b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac3f2d02.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.bd4ca124.chunk.js",
+    "static/css/main.7a1cf539.chunk.css",
+    "static/js/main.69d35322.chunk.js"
+  ]
+}
