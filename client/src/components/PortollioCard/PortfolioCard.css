@@ -1,0 +1,27 @@
+.card {
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(243, 243, 233);
+  display: flex;
+}
+
+.img-thumbnail {
+  margin-top: 20px;
+}
+
+.card-img-top {
+  margin-top: 10px;
+  max-width: fit-content;
+  float: left;
+  display: block;
+}
+
+@media only screen and (min-width: 600px) {
+  #gallery {
+    display: flex;
+  }
+}

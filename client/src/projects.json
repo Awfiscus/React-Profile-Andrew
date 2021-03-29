@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Turn that Frown Upside-Down.png",
+    "image": "Screenshot-Turn-That-Frown-UpsideDown.png",
+    "description": "Need a quick get away from what's dragging you down? Grab a quick joke and a funny gif to help you destress!",
+    "link": "https://lukeoxner.github.io/project-1/"
+  },
+  {
+    "id": 2,
+    "title": "Traverler's Best Friend Weather Report",
+    "image": "Screenshot-Weather-Dashboard.png",
+    "description": "Get a quick weather update for the next five days from any city!",
+    "link": "https://awfiscus.github.io/travelers-best-friend-weather-report/"
+  },
+  {
+    "id": 3,
+    "title": "Single Day Workday Scheduler",
+    "image": "Screenshot-Workday-Scheduler.png",
+    "description": "Create a hourly plan for your workday so you don't miss a thing!",
+    "link": "https://awfiscus.github.io/keep-your-workday-organized/"
+  },
+  {
+    "id": 4,
+    "title": "Have Fun Eating Some Burgers",
+    "image": "Screenshot-of-burger-app.png",
+    "description": "Create a list of Burgers then eat them all!",
+    "link": "https://murmuring-badlands-01547.herokuapp.com/"
+  },
+  {
+    "id": 5,
+    "title": "Daily Horoscope And Chat",
+    "image": "Screenshot-of-Horoscope-chatapp.png",
+    "description": "Type in a sign and find a daily horoscope and then hop over to the posting page to chat with others about astrology!",
+    "link": "https://damp-mountain-65863.herokuapp.com/login"
+  }
+]
